@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --default-bold-body: "SF Pro Text";
+  --font-sf-pro-display: "SF Pro Display";
+  --body-medium: Roboto;
+  --title-poppins-large: Poppins;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+  --font-size-5xl: 24px;
+  --default-bold-body-size: 17px;
+  --body-medium-size: 14px;
+  --title-poppins-large-size: 22px;
+  --font-size-13xl: 32px;
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+  --font-size-29xl: 48px;
+  --font-size-5xs: 8px;
+  --default-regular-footnote-size: 13px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-oldlace-100: #fff3e2;
+  --color-oldlace-200: rgba(255, 243, 226, 0.8);
+  --color-darksalmon-100: #fa9884;
+  --color-darksalmon-200: rgba(250, 152, 132, 0.94);
+  --gray-1: #333;
+  --separator-color-light-with-transparency: rgba(60, 60, 67, 0.36);
+  --gray-6: #f2f2f2;
+  --color-whitesmoke-100: rgba(238, 238, 238, 0);
+  --light-primary: #1573fe;
+  --default-systemblue-light: #007aff;
+  --color-gray-100: #929196;
+  --gray-3: #828282;
+  --color-gray-200: #222;
+  --color-gray-300: #070a17;
+  --color-gray-400: #010101;
+  --color-gray-500: rgba(34, 34, 34, 0.6);
+  --color-gray-600: rgba(255, 255, 255, 0.5);
+  --light-gray-11: #000;
+  --light-gray-0: #fff;
+  --color-crimson: #e74646;
+  --color-bisque-100: #ffe5ca;
+  --primary-brand-2: #5b59e2;
+  --color-lavender: #eeeeff;
+  --color-palegoldenrod: rgba(221, 255, 187, 0.6);
+
+  /* Gaps */
+  --gap-9xs: 4px;
+  --gap-base: 16px;
+  --gap-lgi: 19px;
+  --gap-11xs: 2px;
+
+  /* Paddings */
+  --padding-2xl: 21px;
+  --padding-base: 16px;
+  --padding-9xs: 4px;
+  --padding-2xs: 11px;
+  --padding-xs: 12px;
+
+  /* border radiuses */
+  --br-81xl: 100px;
+  --br-5xl: 24px;
+  --br-xl: 20px;
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+  --br-7xs: 6px;
+}

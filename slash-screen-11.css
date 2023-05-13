@@ -1,0 +1,89 @@
+.slash-screen-11-child {
+  position: absolute;
+  top: 216px;
+  left: 0;
+  background-color: #fef0d6;
+  width: 390px;
+  height: 628px;
+}
+.slash-screen-11-item {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 388px;
+  height: 262px;
+}
+.slash-screen-11-inner {
+  position: absolute;
+  top: 515.93px;
+  left: 0;
+  width: 389px;
+  height: 328.07px;
+}
+.notch-icon6 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 82px);
+  width: 164px;
+  height: 32px;
+}
+.div13 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54px;
+  height: 20px;
+}
+.left-side5,
+.statusbar-time5 {
+  position: absolute;
+  width: 54px;
+  height: 21px;
+}
+.statusbar-time5 {
+  top: 0;
+  left: calc(50% - 27px);
+  border-radius: var(--br-5xl);
+}
+.left-side5 {
+  top: 14px;
+  left: calc(50% - 168px);
+}
+.right-side-icon5 {
+  position: absolute;
+  top: 8px;
+  left: calc(50% + 91px);
+  width: 77.4px;
+  height: 24px;
+}
+.statusbar-iphone-133 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 38px;
+  overflow: hidden;
+}
+.screenshot-2023-05-13-at-1204 {
+  position: absolute;
+  top: 292px;
+  left: 73px;
+  width: 244px;
+  height: 192px;
+  object-fit: cover;
+}
+.slash-screen-11 {
+  position: relative;
+  background-color: var(--light-gray-0);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--default-bold-body-size);
+  color: var(--color-gray-400);
+  font-family: var(--default-bold-body);
+}

@@ -1,0 +1,357 @@
+.basemap-image1,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  width: 422px;
+  height: 844px;
+}
+.rectangle-div {
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--light-gray-0);
+  width: 327px;
+  height: 80px;
+}
+.group-icon {
+  position: absolute;
+  top: 10px;
+  left: 16px;
+  width: 60px;
+  height: 60px;
+}
+.sapakah,
+.when-we-will {
+  position: absolute;
+  left: 0;
+}
+.sapakah {
+  top: 0;
+  font-weight: 500;
+}
+.when-we-will {
+  top: 26px;
+  font-size: var(--font-size-xs);
+}
+.sapakah-parent {
+  position: absolute;
+  top: 18px;
+  left: 88px;
+  width: 118px;
+  height: 44px;
+}
+.div1 {
+  position: absolute;
+  top: 31px;
+  left: 279px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+  text-align: right;
+}
+.group-div {
+  position: relative;
+  width: 327px;
+  height: 80px;
+}
+.john-cena-parent,
+.ujang-parent {
+  position: absolute;
+  top: 18px;
+  left: 88px;
+  width: 124px;
+  height: 44px;
+}
+.ujang-parent {
+  width: 134px;
+}
+.div3 {
+  position: absolute;
+  top: 31px;
+  left: 287px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+  text-align: right;
+}
+.group-container {
+  position: absolute;
+  top: 121px;
+  left: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.notch-icon2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 82px);
+  width: 164px;
+  height: 32px;
+}
+.div8 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54px;
+  height: 20px;
+}
+.left-side1,
+.statusbar-time1 {
+  position: absolute;
+  width: 54px;
+  height: 21px;
+}
+.statusbar-time1 {
+  top: 0;
+  left: calc(50% - 27px);
+  border-radius: var(--br-5xl);
+}
+.left-side1 {
+  top: 14px;
+  left: calc(50% - 168px);
+}
+.right-side-icon1 {
+  position: absolute;
+  top: 8px;
+  left: calc(50% + 91px);
+  width: 77.4px;
+  height: 24px;
+}
+.statusbar-iphone-131 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 38px;
+  overflow: hidden;
+  color: var(--color-gray-400);
+  font-family: var(--default-bold-body);
+}
+.icon-share-android1,
+.icon-tools {
+  position: absolute;
+  height: 4.13%;
+  width: 8.86%;
+  top: 91.91%;
+  right: 7.62%;
+  bottom: 3.96%;
+  left: 83.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-share-android1 {
+  height: 4.54%;
+  width: 8.9%;
+  top: 91.67%;
+  right: 57.34%;
+  bottom: 3.8%;
+  left: 33.76%;
+}
+.direct-messages {
+  position: absolute;
+  top: 61px;
+  left: 43px;
+  font-size: var(--font-size-13xl);
+  text-align: left;
+}
+.sf-symbol-scribblevariable12 {
+  position: absolute;
+  top: calc(50% - 17.5px);
+  left: calc(50% - 12.5px);
+  width: 25px;
+  height: 23px;
+}
+.label12,
+.sf-symbol12 {
+  position: absolute;
+  font-weight: 500;
+}
+.sf-symbol12 {
+  top: calc(50% - 25.5px);
+  left: calc(50% - 19.5px);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+}
+.label12 {
+  top: calc(50% + 10.37px);
+  left: calc(50% - 12.5px);
+  font-size: var(--font-size-3xs);
+  letter-spacing: -0.24px;
+  font-family: var(--default-bold-body);
+  color: var(--gray-6);
+}
+.tabbar-item12,
+.tabbar-item13,
+.tabbar-item14,
+.tabbar-item15 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 185px);
+  width: 75px;
+  height: 49px;
+  display: none;
+}
+.tabbar-item13,
+.tabbar-item14,
+.tabbar-item15 {
+  left: calc(50% - 87px);
+}
+.tabbar-item14,
+.tabbar-item15 {
+  left: calc(50% + 12px);
+}
+.tabbar-item15 {
+  left: calc(50% + 110px);
+}
+.tabs3 {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-darksalmon-100);
+  height: 49px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.home-indicator4 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--gray-1);
+  width: 134px;
+  height: 5px;
+}
+.homeindicator3 {
+  position: relative;
+  width: 375px;
+  height: 34px;
+}
+.tabbar3 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  background-color: var(--color-darksalmon-200);
+  box-shadow: 0-0.5px 0 rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(20px);
+  width: 390px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.homeindicator4 {
+  position: relative;
+  width: 375px;
+  height: 34px;
+  display: none;
+}
+.tabbar5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darksalmon-200);
+  box-shadow: 0-0.5px 0 rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(20px);
+  width: 390px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-child13 {
+  position: absolute;
+  top: 38px;
+  left: 274px;
+  width: 4px;
+  height: 4px;
+}
+.home-icon1,
+.icon-globe2 {
+  position: absolute;
+  height: 25.65%;
+  width: 5.59%;
+  top: 14.24%;
+  right: 65.67%;
+  bottom: 60.12%;
+  left: 28.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-icon1 {
+  height: 29.41%;
+  width: 6.41%;
+  top: 11.76%;
+  right: 84.1%;
+  bottom: 58.82%;
+  left: 9.49%;
+}
+.video1 {
+  position: absolute;
+  top: 10px;
+  left: 185px;
+  width: 24px;
+  height: 25px;
+}
+.icon-clock1,
+.icon-person1,
+.settings-icon1 {
+  position: absolute;
+  height: 29.41%;
+  width: 6.41%;
+  top: 11.76%;
+  right: 8.46%;
+  bottom: 58.82%;
+  left: 85.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-clock1,
+.icon-person1 {
+  height: 24.71%;
+  width: 5.38%;
+  top: 14.12%;
+  right: 47.18%;
+  bottom: 61.18%;
+  left: 47.44%;
+}
+.icon-person1 {
+  height: 28.91%;
+  width: 6.3%;
+  top: 12.94%;
+  right: 26.26%;
+  bottom: 58.15%;
+  left: 67.44%;
+}
+.tabbar-group {
+  position: absolute;
+  top: 759px;
+  left: 0;
+  width: 390px;
+  height: 85px;
+  font-size: var(--font-size-5xl);
+  color: var(--default-systemblue-light);
+  font-family: var(--font-sf-pro-display);
+}
+.slash-screen-6 {
+  position: relative;
+  background-color: var(--color-oldlace-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--default-bold-body-size);
+  color: var(--color-gray-300);
+  font-family: var(--title-poppins-large);
+}

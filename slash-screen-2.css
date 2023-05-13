@@ -1,0 +1,344 @@
+.basemap-image-icon,
+.component-14-child {
+  position: absolute;
+  height: 99.88%;
+  top: 0.12%;
+  bottom: 0;
+  width: 390px;
+}
+.component-14-child {
+  width: 95.97%;
+  right: 4.03%;
+  left: 0;
+  background-color: var(--color-palegoldenrod);
+}
+.basemap-image-icon {
+  width: 94.41%;
+  right: -0.45%;
+  left: 6.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.notch-icon10 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 82px);
+  width: 164px;
+  height: 32px;
+}
+.div17 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54px;
+  height: 20px;
+}
+.left-side9,
+.statusbar-time9 {
+  position: absolute;
+  width: 54px;
+  height: 21px;
+}
+.statusbar-time9 {
+  top: 0;
+  left: calc(50% - 27px);
+  border-radius: var(--br-5xl);
+}
+.left-side9 {
+  top: 14px;
+  left: calc(50% - 168px);
+}
+.right-side-icon9 {
+  position: absolute;
+  top: 8px;
+  left: calc(50% + 91px);
+  width: 77.4px;
+  height: 24px;
+}
+.statusbar-iphone-135 {
+  position: absolute;
+  height: 4.5%;
+  width: 87.25%;
+  top: 0.12%;
+  right: 6.71%;
+  bottom: 95.38%;
+  left: 6.04%;
+  overflow: hidden;
+  font-size: var(--default-bold-body-size);
+  color: var(--color-gray-400);
+  font-family: var(--default-bold-body);
+}
+.component-14-child1,
+.component-14-child2,
+.component-14-item,
+.image-1-icon {
+  position: absolute;
+  height: 4.14%;
+  width: 7.83%;
+  top: 34.2%;
+  right: 27.74%;
+  bottom: 61.66%;
+  left: 64.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-14-child1,
+.component-14-child2,
+.image-1-icon {
+  top: 70.18%;
+  right: 75.17%;
+  bottom: 25.68%;
+  left: 17%;
+}
+.component-14-child2,
+.image-1-icon {
+  top: 62.96%;
+  right: 40.27%;
+  bottom: 32.9%;
+  left: 51.9%;
+}
+.image-1-icon {
+  height: 8.28%;
+  width: 15.66%;
+  top: 14.08%;
+  bottom: 77.63%;
+  left: 44.07%;
+  object-fit: cover;
+}
+.sf-symbol-scribblevariable44 {
+  position: absolute;
+  top: calc(50% - 17.5px);
+  left: calc(50% - 12.5px);
+  width: 25px;
+  height: 23px;
+}
+.label45,
+.sf-symbol44 {
+  position: absolute;
+  font-weight: 500;
+}
+.sf-symbol44 {
+  top: calc(50% - 25.5px);
+  left: calc(50% - 19.5px);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+}
+.label45 {
+  top: calc(50% + 10.37px);
+  left: calc(50% - 12.5px);
+  font-size: var(--font-size-3xs);
+  letter-spacing: -0.24px;
+  font-family: var(--default-bold-body);
+  color: var(--gray-6);
+}
+.tabbar-item44,
+.tabbar-item45,
+.tabbar-item46,
+.tabbar-item47 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 185px);
+  width: 75px;
+  height: 49px;
+  display: none;
+}
+.tabbar-item45,
+.tabbar-item46,
+.tabbar-item47 {
+  left: calc(50% - 87px);
+}
+.tabbar-item46,
+.tabbar-item47 {
+  left: calc(50% + 12px);
+}
+.tabbar-item47 {
+  left: calc(50% + 110px);
+}
+.tabs11 {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-darksalmon-100);
+  height: 49px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.home-indicator12 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--gray-1);
+  width: 134px;
+  height: 5px;
+}
+.homeindicator11 {
+  position: relative;
+  width: 375px;
+  height: 34px;
+}
+.tabbar11 {
+  position: absolute;
+  height: 9.82%;
+  width: 87.25%;
+  top: 90.18%;
+  right: 6.71%;
+  bottom: 0;
+  left: 6.04%;
+  background-color: var(--color-darksalmon-200);
+  box-shadow: 0-0.5px 0 rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(20px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.homeindicator12 {
+  position: relative;
+  width: 375px;
+  height: 34px;
+  display: none;
+}
+.tabbar12,
+.tabbar13 {
+  position: absolute;
+  height: 5.8%;
+  width: 87.25%;
+  top: 90.18%;
+  right: 6.71%;
+  bottom: 4.02%;
+  left: 6.04%;
+  background-color: var(--color-darksalmon-200);
+  box-shadow: 0-0.5px 0 rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(20px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tabbar13 {
+  top: 89.94%;
+  bottom: 4.26%;
+}
+.component-14-child3,
+.icon-globe5 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.89%;
+  top: 94.44%;
+  right: 66%;
+  bottom: 5.09%;
+  left: 33.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-globe5 {
+  height: 2.58%;
+  width: 4.88%;
+  top: 91.37%;
+  right: 64%;
+  bottom: 6.05%;
+  left: 31.12%;
+}
+.home-icon4,
+.video4 {
+  position: absolute;
+  height: 2.96%;
+  top: 91.12%;
+  bottom: 5.92%;
+}
+.home-icon4 {
+  width: 5.59%;
+  right: 80.09%;
+  left: 14.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.video4 {
+  width: 5.37%;
+  right: 47.2%;
+  left: 47.43%;
+}
+.component-14-child4,
+.icon-clock4,
+.icon-person4,
+.settings-icon4,
+.vector-icon {
+  position: absolute;
+  height: 2.96%;
+  width: 5.59%;
+  top: 91.12%;
+  right: 14.09%;
+  bottom: 5.92%;
+  left: 80.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-14-child4,
+.icon-clock4,
+.icon-person4,
+.vector-icon {
+  height: 2.49%;
+  width: 4.7%;
+  top: 91.36%;
+  right: 47.87%;
+  bottom: 6.15%;
+  left: 47.43%;
+}
+.component-14-child4,
+.icon-person4,
+.vector-icon {
+  height: 2.91%;
+  width: 5.5%;
+  top: 91.24%;
+  right: 29.63%;
+  bottom: 5.85%;
+  left: 64.88%;
+}
+.component-14-child4,
+.vector-icon {
+  height: 7.46%;
+  width: 14.09%;
+  top: 80.59%;
+  right: 11.41%;
+  bottom: 11.95%;
+  left: 74.5%;
+}
+.vector-icon {
+  height: 2.84%;
+  width: 5.37%;
+  top: 82.49%;
+  right: 15.66%;
+  bottom: 14.67%;
+  left: 78.97%;
+}
+.component-14 {
+  position: absolute;
+  top: -1px;
+  left: -27px;
+  width: 447px;
+  height: 845px;
+}
+.slash-screen-2 {
+  position: relative;
+  background-color: var(--light-gray-0);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--default-systemblue-light);
+  font-family: var(--font-sf-pro-display);
+}

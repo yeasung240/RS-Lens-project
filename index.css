@@ -1,0 +1,522 @@
+.basemap-image {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  width: 422px;
+  height: 844px;
+}
+.avatar-icon,
+.slash-screen-7-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 388px;
+  height: 262px;
+}
+.avatar-icon {
+  left: 73.62px;
+  width: 126.35px;
+  height: 129.33px;
+}
+.puerto-rico,
+.rikohoshinolens {
+  position: absolute;
+  display: inline-block;
+}
+.puerto-rico {
+  top: 134.31px;
+  left: 39.79px;
+  line-height: 28px;
+  font-weight: 600;
+  width: 193.01px;
+  height: 27.86px;
+}
+.rikohoshinolens {
+  height: 10.87%;
+  width: 100%;
+  top: 89.13%;
+  left: 0;
+  font-size: var(--body-medium-size);
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  font-family: var(--body-medium);
+}
+.avatar-parent,
+.group-child {
+  position: absolute;
+  top: 176.42px;
+  left: 57.7px;
+  width: 272.59px;
+  height: 183.06px;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--light-gray-0);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  width: 340.25px;
+  height: 120.38px;
+}
+.linebusinessprofile-line-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.edit-profile-information,
+.english {
+  position: absolute;
+  height: 83.33%;
+  top: 8.33%;
+  left: 37px;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  display: inline-block;
+  width: 240px;
+}
+.english {
+  width: 86.64%;
+  left: 22.38%;
+  color: var(--light-primary);
+  text-align: right;
+  display: none;
+}
+.component-11,
+.english1 {
+  position: absolute;
+  top: 13.93px;
+  left: 15.92px;
+  width: 275.58px;
+  height: 23.88px;
+}
+.english1 {
+  height: 83.33%;
+  width: 86.64%;
+  top: 8.33%;
+  left: 22.38%;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  color: var(--light-primary);
+  text-align: right;
+  display: inline-block;
+}
+.component-12,
+.component-13 {
+  position: absolute;
+  top: 48.75px;
+  left: 15.92px;
+  width: 275.58px;
+  height: 23.88px;
+}
+.component-13 {
+  top: 85.56px;
+}
+.rectangle-group,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 340.25px;
+  height: 120.38px;
+}
+.rectangle-group {
+  top: 253.69px;
+}
+.group-inner,
+.group-parent,
+.rectangle-container {
+  position: absolute;
+  left: 0;
+  width: 340.25px;
+  height: 85.56px;
+}
+.group-inner {
+  top: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--light-gray-0);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+.group-parent,
+.rectangle-container {
+  top: 144.26px;
+}
+.group-parent {
+  top: 392.3px;
+  left: 23.88px;
+  height: 374.07px;
+  text-align: left;
+  font-size: var(--body-medium-size);
+  font-family: var(--body-medium);
+}
+.notch-icon {
+  position: absolute;
+  width: 100%;
+  top: 1px;
+  right: -3px;
+  left: 3px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 30px;
+}
+.network-signal-light {
+  position: relative;
+  width: 20px;
+  height: 14px;
+  display: none;
+}
+.battery-light,
+.wifi-signal-light {
+  position: relative;
+  width: 16px;
+  height: 14px;
+}
+.battery-light {
+  width: 25px;
+}
+.status-icons {
+  position: absolute;
+  top: 16px;
+  right: 14px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.indicator-icon {
+  position: absolute;
+  top: 8px;
+  right: 71px;
+  width: 6px;
+  height: 6px;
+}
+.time-light {
+  position: absolute;
+  top: 12px;
+  left: 21px;
+  border-radius: var(--br-xl);
+  width: 54px;
+  height: 21px;
+  overflow: hidden;
+  display: none;
+}
+.status-bar {
+  top: 0;
+  left: 0;
+  width: 388px;
+  height: 43.77px;
+  overflow: hidden;
+}
+.bar,
+.base,
+.status-bar {
+  position: absolute;
+}
+.base {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: var(--light-gray-11);
+}
+.bar {
+  width: calc(100% - 241px);
+  right: 121px;
+  bottom: 7.83px;
+  left: 120px;
+  height: 5px;
+}
+.home-indicator {
+  position: absolute;
+  top: 805.85px;
+  left: 0;
+  width: 388px;
+  height: 33.83px;
+  overflow: hidden;
+}
+.header-icon,
+.top {
+  position: absolute;
+  top: 68.65px;
+  left: 23.88px;
+  width: 348.21px;
+  height: 23.88px;
+}
+.top {
+  top: -1px;
+  left: -3px;
+  width: 388px;
+  height: 839.67px;
+}
+.notch-icon1 {
+  position: absolute;
+  top: 1px;
+  left: calc(50% - 82px);
+  width: 164px;
+  height: 32px;
+}
+.div,
+.statusbar-time {
+  position: absolute;
+  width: 54px;
+}
+.div {
+  top: 1px;
+  left: 0;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  height: 20px;
+}
+.statusbar-time {
+  top: 0;
+  left: calc(50% - 27px);
+  border-radius: var(--br-5xl);
+  height: 21px;
+}
+.left-side,
+.right-side-icon {
+  position: absolute;
+  top: 14px;
+  left: calc(50% - 168px);
+  width: 54px;
+  height: 21px;
+}
+.right-side-icon {
+  top: 8px;
+  left: calc(50% + 91px);
+  width: 77.4px;
+  height: 24px;
+}
+.statusbar-iphone-13 {
+  position: absolute;
+  top: -1px;
+  left: 1px;
+  width: 390px;
+  height: 38px;
+  overflow: hidden;
+  font-size: var(--default-bold-body-size);
+  color: var(--color-gray-400);
+  font-family: var(--default-bold-body);
+}
+.icon-globe,
+.icon-share-android {
+  position: absolute;
+  height: 4.08%;
+  width: 8.83%;
+  top: 91.92%;
+  right: 79.42%;
+  bottom: 4%;
+  left: 11.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-share-android {
+  height: 4.54%;
+  width: 8.9%;
+  top: 91.67%;
+  right: 57.34%;
+  bottom: 3.8%;
+  left: 33.76%;
+}
+.sf-symbol-scribblevariable {
+  position: absolute;
+  top: calc(50% - 17.5px);
+  left: calc(50% - 12.5px);
+  width: 25px;
+  height: 23px;
+}
+.label,
+.sf-symbol {
+  position: absolute;
+  font-weight: 500;
+}
+.sf-symbol {
+  top: calc(50% - 25.5px);
+  left: calc(50% - 19.5px);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+}
+.label {
+  top: calc(50% + 10.37px);
+  left: calc(50% - 12.5px);
+  font-size: var(--font-size-3xs);
+  letter-spacing: -0.24px;
+  font-family: var(--default-bold-body);
+  color: var(--gray-6);
+}
+.tabbar-item,
+.tabbar-item1,
+.tabbar-item2,
+.tabbar-item3 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 185px);
+  width: 75px;
+  height: 49px;
+  display: none;
+}
+.tabbar-item1,
+.tabbar-item2,
+.tabbar-item3 {
+  left: calc(50% - 87px);
+}
+.tabbar-item2,
+.tabbar-item3 {
+  left: calc(50% + 12px);
+}
+.tabbar-item3 {
+  left: calc(50% + 110px);
+}
+.tabs {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-darksalmon-100);
+  height: 49px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.home-indicator1 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--gray-1);
+  width: 134px;
+  height: 5px;
+}
+.homeindicator {
+  position: relative;
+  width: 375px;
+  height: 34px;
+}
+.tabbar {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  background-color: var(--color-darksalmon-200);
+  box-shadow: 0-0.5px 0 rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(20px);
+  width: 390px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.homeindicator1 {
+  position: relative;
+  width: 375px;
+  height: 34px;
+  display: none;
+}
+.tabbar2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darksalmon-200);
+  box-shadow: 0-0.5px 0 rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(20px);
+  width: 390px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 38px;
+  left: 341px;
+  width: 4px;
+  height: 4px;
+}
+.home-icon,
+.icon-globe1 {
+  position: absolute;
+  height: 25.65%;
+  width: 5.59%;
+  top: 14.24%;
+  right: 65.67%;
+  bottom: 60.12%;
+  left: 28.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-icon {
+  height: 29.41%;
+  width: 6.41%;
+  top: 11.76%;
+  right: 84.1%;
+  bottom: 58.82%;
+  left: 9.49%;
+}
+.video {
+  position: absolute;
+  top: 10px;
+  left: 185px;
+  width: 24px;
+  height: 25px;
+}
+.icon-clock,
+.icon-person,
+.settings-icon {
+  position: absolute;
+  height: 29.41%;
+  width: 6.41%;
+  top: 11.76%;
+  right: 8.46%;
+  bottom: 58.82%;
+  left: 85.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-clock,
+.icon-person {
+  height: 24.71%;
+  width: 5.38%;
+  top: 14.12%;
+  right: 47.18%;
+  bottom: 61.18%;
+  left: 47.44%;
+}
+.icon-person {
+  height: 28.91%;
+  width: 6.3%;
+  top: 12.94%;
+  right: 26.26%;
+  bottom: 58.15%;
+  left: 67.44%;
+}
+.tabbar-parent {
+  position: absolute;
+  top: 759px;
+  left: 0;
+  width: 390px;
+  height: 85px;
+  font-size: var(--font-size-5xl);
+  color: var(--default-systemblue-light);
+  font-family: var(--font-sf-pro-display);
+}
+.slash-screen-7 {
+  position: relative;
+  background-color: var(--color-oldlace-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--title-poppins-large-size);
+  color: var(--light-gray-11);
+  font-family: var(--title-poppins-large);
+}
