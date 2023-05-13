@@ -1,5 +1,5 @@
 
-  # lens map
+  # Lens Map
 
   Where have you been in the world? With Lens Map, you can create a personalized map of all the countries you've visited and share it with your friends. Plus, collect NFT badges and unlock ultimate bragging rights! Download Lens Map now and start exploring the world like never before.
 
